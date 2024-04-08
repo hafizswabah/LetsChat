@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p{
+    margin: 0px;
+}
+
+.home-page{
+    display: flex;
+    flex-direction: row;
+}
